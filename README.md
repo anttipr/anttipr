@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @anttipr
 - 👀 I’m interested in game development
 - 🌱 I’m currently learning python, godot engine/gdscript
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: anttironkkagames.com
 
 <!---
